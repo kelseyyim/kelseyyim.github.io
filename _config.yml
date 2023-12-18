@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "TheLegoFortniteZone"
+author: "Kelsey Y"
+description: "Explore TheLegoFortniteZone - the premier source for insights and detailed tutorials on the innovative Lego Fortnite game mode in Fortnite. Specializing in up-to-date strategies, building techniques, and comprehensive guides, our blog caters to both new players and seasoned enthusiasts eager to excel in Lego Fortnite. Embrace the thrill of creative gameplay and join our vibrant community to stay ahead in the world of Lego Fortnite, learn from expert tips, and share your own unique experiences in this dynamic and engaging game mode!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+# email: "example@mail.com"
+# twitter_username: "twitteruser"
+# github_username: "githubuser"
+# linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
